@@ -3,7 +3,6 @@ import UserForm from './components/forms/UserForm';
 import Users from './components/users/Users';
 import './App.css';
 import Grid from '@material-ui/core/Grid';
-import UsersContextProvider from './contexts/UsersContext';
 import UserFormContextProvider from './contexts/UserFormContext';
 
 function App() {
